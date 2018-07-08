@@ -54,7 +54,11 @@ graphql関連の処理をするファイル
 - https://github.com/APIs-guru/graphql-voyager
 > すげぇよ...  
 > 見た目大事
- 
+> ネーミングのセンスよ
+
+- https://twitter.com/NikkitaFTW/status/1011928066816462848
+> わかりやすい
+
 
 - https://github.com/APIs-guru/graphql-faker
 > すげぇよ...  
