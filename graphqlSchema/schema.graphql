@@ -1,0 +1,19 @@
+type User {
+  id: ID!
+  name: String!
+}
+
+type Company {
+  id: ID!
+  name: String!
+}
+
+type Query {
+  user(id: Int, name: String): User,
+  company(id: Int, name: String): Company,
+  allUser: [User]
+}
+
+type Mutation {
+  user(name: String): String!
+}
