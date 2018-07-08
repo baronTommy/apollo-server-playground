@@ -34,32 +34,32 @@ npm start
 graphql関連の処理をするファイル  
 .jsファイルはここでいいと思う
 
-### src
-ソースって買っても余る
-揚げ物あまり食べないし
+### /src
+ソースって買っても余るんよなー  
+揚げ物あまり食べないし  
 うーん...
+
 
 ### 参考にした記事
 - https://qiita.com/mizchi/items/c078aea032cd00ba3e86
-  - 記事が丁寧でした 天才かよ
+  - 記事が丁寧でした 天才かよ
 
 - https://ushumpei.hatenablog.com/entry/2017/12/12/000000
  - 動画もあってわかりやすかったです 天才かよ
 
+
 ### その他
+#### 良かったら気に入ったら **★** つけてね!!
+
 - https://github.com/APIs-guru/graphql-voyager
-> すげぇよ...
+> すげぇよ...  
 > 見た目大事
  
 
 - https://github.com/APIs-guru/graphql-faker
 > すげぇよ...  
-> これでもいいかも... こんな合わせ技もありとは...
+> これでもいいかも... こんな合わせ技もありとは...  
 > `npx graphql-faker --open -e  http://localhost:3000/graphql xxx.graphqhql`
-
-
-### その他2
-#### 良かったら気に入ったら **★** つけてね!!
 
 #### 良かったら使ってね
 https://github.com/baronTommy/new-filet-o-fish
