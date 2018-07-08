@@ -1,5 +1,9 @@
 # GraphQL サーバサイド
 
+![GQL](https://pbs.twimg.com/media/DgsXLk_X4AEKiJJ.jpg "GQL")
+> https://twitter.com/NikkitaFTW/status/1011928066816462848
+
+
 ## use
 
 ```
@@ -55,9 +59,6 @@ graphql関連の処理をするファイル
 > すげぇよ...  
 > 見た目大事
 > ネーミングのセンスよ
-
-- https://twitter.com/NikkitaFTW/status/1011928066816462848
-> わかりやすい
 
 
 - https://github.com/APIs-guru/graphql-faker
