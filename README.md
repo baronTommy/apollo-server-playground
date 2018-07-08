@@ -66,5 +66,9 @@ graphql関連の処理をするファイル
 > これでもいいかも... こんな合わせ技もありとは...  
 > `npx graphql-faker --open -e  http://localhost:3000/graphql xxx.graphqhql`
 
+
+- https://github.com/prismagraphql/graphql-playground
+> エディタ
+
 #### 良かったら使ってね
 https://github.com/baronTommy/new-filet-o-fish
